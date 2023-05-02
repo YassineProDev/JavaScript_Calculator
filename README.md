@@ -1,7 +1,7 @@
 <div align="center">
 
 
-# PHP Calculator
+# Calculator
 
 <br/> 
 
